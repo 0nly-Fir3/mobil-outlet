@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: mobil-outlet-prototype
-    runtime: static
-    buildCommand: ""
-    staticPublishPath: .
-    pullRequestPreviewsEnabled: true
